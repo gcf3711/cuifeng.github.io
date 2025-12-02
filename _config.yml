@@ -23,7 +23,7 @@ repository               : "gcf3711/gcf3711.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cuifeng.png"
+  avatar           : "cuifeng.jpg"
   name             : "Cuifeng Gao"
   pronouns         : # example: "she/her"  
   bio              : "In each step, joy resides."
