@@ -1,13 +1,79 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently an PhD student at the University of Science and Technology of China.
+
+My research interests include <b>software engineering</b> and <b>Smart Contract Security</b>.
+
+
+
+
+Publications 
+======
+<em>* indicates coauthor; <sup>†</sup> indicates corresponding author</em>
+
+<ul style="width: 1200px">
+
+<li>
+<font color="maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</font> [<a href="files/smart_contract_evolution.pdf"><b>preprint</b></a>]
+<br>
+<b>Cuifeng Gao</b>, Ao Chen, Chengze Wu, Wenzhang Yang, Jiaming Ye, Yinxing Xue<sup>†</sup>.
+<em>TOSEM'2025</em>
+</li>
+
+
+
+<li>
+<font color="maroon"> Rust-doctor: Enhanced Feature for Rust Ownership and Lifetime Repair with Balanced Training Data Generation</font> [<a href="https://doi.org/10.18653/v1/2025.findings-emnlp.179"><b>DOI</b></a>] [<a href="files/rust-doctor.pdf"><b>PDF</b></a>]
+<br>
+Wenzhang Yang*, Xiaoning Ren*, <b>Cuifeng Gao</b>, Yinxing Xue<sup>†</sup>.
+<em>Findings of EMNLP'2025</em>
+</li>
+
+
+<li>
+<font color="maroon">Towards Automated and Accurate Understanding of ARINC Standard in Heterogeneous Data Formats</font> [<a href="https://doi.org/10.1109/QRS65678.2025.00037"><b>DOI</b></a>] [<a href="files/nlp4arinc.pdf"><b>PDF</b></a>]
+<br>
+<b>Cuifeng Gao</b>, Wenzhang Yang<sup>†</sup>, Xianchang Luo, Yinxing Xue.
+<em>QRS'2025</em>
+</li>
+
+<li>
+<font color="maroon">Flash Loan Attack Is More Than Just Price Oracle Manipulation: A Comprehensive Empirical Study</font> [<a href="https://doi.org/10.1109/QRS65678.2025.00073"><b>DOI</b></a>] [<a href="files/flashloan.pdf"><b>PDF</b></a>] 
+<br>
+<b>Cuifeng Gao</b>, Jiajun Ye, Wenzhang Yang<sup>†</sup>, Yinxing Xue.
+<em>QRS'2025</em>
+</li>
+
+
+
+<li>
+<font color="maroon">Rust-twins: Automatic Rust Compiler Testing through Program Mutation and Dual Macros Generation</font> [<a href="https://doi.org/10.1145/3691620.3695059"><b>DOI</b></a>] [<a href="files/rust-twins.pdf"><b>PDF</b></a>]
+<br>
+Wenzhang Yang, <b>Cuifeng Gao</b>, Xiaoyuan Liu, Yuekang Li, Yinxing Xue.
+<em>ASE'2024</em>
+</li>
+
+
+
+<li>
+<font color="maroon">sGuard+: Machine Learning Guided Rule-based Automated Vulnerability Repair on Smart Contracts</font> [<a href="https://doi.org/10.1145/3641846"><b>DOI</b></a>] [<a href="files/sguard+.pdf"><b>PDF</b></a>]
+<br>
+<b>Cuifeng Gao</b>, Wenzhang Yang, Jiaming Ye, Yinxing Xue, Jun Sun.
+<em>TOSEM'2023</em>
+</li>
+
+
+</ul>
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +119,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
