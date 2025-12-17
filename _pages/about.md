@@ -10,9 +10,14 @@ redirect_from:
 
 I am currently an PhD student at the University of Science and Technology of China.
 
-My research interests include <b>software engineering</b> and <b>Smart Contract Security</b>.
+My research interests include <b>Software Engineering</b> and <b>Smart Contract Security</b>.
 
 
+
+Education
+======
+* Ph.D in Computer and Science Technology, University of Science and Technology of China, 2026 (expected)
+* B.S. in Educational Technology (Teacher Education Track), Nanjing Normal University, 2019
 
 
 Publications 
@@ -22,7 +27,7 @@ Publications
 <ul style="width: 1200px">
 
 <li>
-<font color="maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</font> [<a href="files/smart_contract_evolution.pdf"><b>preprint</b></a>]
+<font color="maroon">Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study</font> [<a href="https://dl.acm.org/doi/10.1145/3779429"><b>DOI</b></a>] [<a href="files/smart_contract_evolution.pdf"><b>PDF</b></a>]
 <br>
 <b>Cuifeng Gao</b>, Ao Chen, Chengze Wu, Wenzhang Yang, Jiaming Ye, Yinxing Xue<sup>†</sup>.
 <em>TOSEM'2025</em>
